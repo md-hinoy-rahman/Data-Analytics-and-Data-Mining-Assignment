@@ -1,4 +1,4 @@
-<h2><b>Assignment Name:</b> Forecasting Household Electricity Consumption Using Time Series Analysis.</h2>
+<h2>Forecasting Household Electricity Consumption Using Time Series Analysis.</h2>
 Group 26 <br>
 <hr>
 A00015966 Md Hinoy Rahman <br>
